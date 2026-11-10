@@ -1,0 +1,28 @@
+.comm-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px}.comm-toolbar h2{margin:0}.comm-toolbar label{max-width:280px}.comm-screen details>summary{cursor:pointer;font-weight:bold}.comm-screen details form{margin-top:16px}.comm-paper-header{display:flex;gap:20px;justify-content:space-between;margin-bottom:20px}.comm-paper-header h2{font-size:18px!important}.comm-paper-header>div:last-child{flex-shrink:0;font-size:12px;line-height:1.7}.comm-table-scroll{overflow:auto;max-height:75vh;border:1px solid #d1e2dc;border-radius:9px}.comm-table{width:100%;min-width:1900px;border-collapse:collapse}.comm-table th{position:sticky;top:0;background:#e8f2ec;z-index:2}.comm-table :is(th,td){border:1px solid #d1e2dc;padding:10px;vertical-align:top;font-size:12px!important;min-width:100px}.comm-table button{font-size:11px!important;padding:5px 7px;min-height:0}.comm-source-actions{display:flex;flex-wrap:wrap;gap:5px;margin-top:10px}.comm-text{white-space:pre-wrap;overflow-wrap:anywhere}.comm-evidence{padding:8px 0;border-bottom:1px solid #d1e2dc}.comm-evidence a{overflow-wrap:anywhere}.comm-evidence small{display:block;font-size:10px!important}.comm-upload{display:block;margin-top:12px;color:#006859;cursor:pointer}.comm-upload input{display:block;max-width:180px;font-size:11px!important}.comm-signatures{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border:1px solid #d1e2dc;margin-top:24px}.comm-signatures>div{padding:15px;text-align:center;border-right:1px solid #d1e2dc}.comm-signatures img{display:block;max-height:90px;max-width:180px;margin:10px auto}.comm-signature-empty{min-height:90px;display:grid;place-items:center;color:#81928c}.comm-signatures small{display:block}.comm-signatures button{margin-top:10px}#comm-root dialog{width:min(850px,90vw);max-height:85vh;overflow:auto;border:1px solid #c2dad0;border-radius:12px;padding:24px}#comm-root dialog::backdrop{background:#002d2780}#comm-root dialog label{display:block;margin-bottom:14px}#comm-root dialog :is(input:not([type=hidden]),textarea,select){width:100%;box-sizing:border-box}#comm-sign-canvas{display:block;width:100%;height:auto;aspect-ratio:10/3;border:1px solid #90b0a4;border-radius:8px;background:white;touch-action:none}#comm-sign-preview{max-height:100px;max-width:250px}#comm-message{padding:12px;background:#fff3d8;border:1px solid #e2ce94;border-radius:8px;margin-bottom:12px;white-space:pre-wrap}.comm-toolbar button,.comm-toolbar a{white-space:nowrap}
+@media screen and (max-width:760px){.comm-paper-header{flex-direction:column}.comm-signatures{grid-template-columns:1fr}.comm-signatures>div{border-bottom:1px solid #d1e2dc}}
+@media print{@page{size:A3 landscape;margin:10mm}.workspace-native aside,.workspace-native main>header,.portal-heading,.workspace-server-status,.comm-screen,dialog{display:none!important}.workspace-native main{margin:0!important}.workspace-native #content{padding:0!important}.comm-paper{padding:0!important;border:0!important;box-shadow:none!important}.comm-table-scroll{max-height:none;overflow:visible;border:0}.comm-table{min-width:0;table-layout:fixed;width:100%}.comm-table :is(th,td){min-width:0!important;width:auto!important;font-size:8px!important;padding:5px;overflow-wrap:anywhere}.comm-table th{position:static}.comm-table tr{break-inside:avoid}.comm-paper-header h2{font-size:14px!important}.comm-signatures{break-inside:avoid}.comm-signatures>div{font-size:10px!important}.comm-evidence small{font-size:8px!important}}
+
+.comm-table th{white-space:normal}.comm-table td{white-space:normal}.comm-table .comm-number{min-width:32px;width:32px}.comm-table .comm-source-cell{min-width:170px}.comm-table .comm-cell-title{min-width:220px}.comm-table .comm-cell-control_document{min-width:190px}
+@media print{.comm-table .comm-number,.comm-table .comm-source-cell,.comm-table .comm-cell-title,.comm-table .comm-cell-control_document{min-width:0;width:auto}.comm-table thead th:first-child{width:3%}.comm-table thead th:nth-child(2){width:13%}.comm-table thead th:nth-child(3){width:16%}}
+
+@media print{.comm-table tr[data-comm-row][hidden]{display:table-row!important}}
+
+/* Use the same company letterhead and approval table as other SILESTARI forms. */
+.comm-paper-header.si-form-head{justify-content:flex-start;align-items:center;gap:18px;break-inside:avoid}
+.comm-paper-header.si-form-head>img{display:block;flex:0 0 95px;width:95px;max-height:75px;object-fit:contain}
+.comm-paper-header.si-form-head>div{flex:1 1 auto;min-width:0;flex-shrink:1}
+.comm-approval table{width:100%;table-layout:fixed}
+.comm-approval :is(th,td){width:33.333%;white-space:normal;text-align:center}
+.comm-approval .si-form-sign{height:65px}
+.comm-approval .si-form-sign img{object-fit:contain;max-width:170px;max-height:60px}
+@media print{
+ .comm-paper-header.si-form-head{display:flex!important;flex-direction:row!important;align-items:center!important;gap:18px!important;margin-bottom:10px!important}
+ .comm-paper-header.si-form-head>img{display:block!important;width:95px!important;max-height:75px!important}
+ .comm-paper-header.si-form-head h1{font-size:18px!important}
+ .comm-approval{display:block!important;break-inside:avoid!important;page-break-inside:avoid!important}
+ .comm-approval table{display:table!important;width:100%!important;table-layout:fixed!important}
+ .comm-approval thead{display:table-header-group!important}
+ .comm-approval tbody{display:table-row-group!important}
+ .comm-approval tr{display:table-row!important}
+ .comm-approval :is(th,td){display:table-cell!important;width:33.333%!important;font-size:9px!important;padding:4px!important;vertical-align:top!important}
+}

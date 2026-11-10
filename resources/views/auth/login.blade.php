@@ -1,0 +1,3 @@
+@extends('layouts.app')
+@section('title','Masuk · SILESTARI')
+@section('content')<section class="auth-card"><p class="eyebrow">SELAMAT DATANG</p><h1>Masuk ke SILESTARI</h1><p>Gunakan akun yang diberikan admin.</p><form method="POST" action="{{ route('login.store') }}">@csrf<label>Username atau email<input name="email" type="text" value="{{ old('email') }}" required autocomplete="username"></label><label>Password<input name="password" type="password" required autocomplete="current-password"></label><p style="text-align:right"><a href="{{ route('password.request') }}">Lupa password?</a></p><button class="primary full">Masuk</button></form></section>@endsection

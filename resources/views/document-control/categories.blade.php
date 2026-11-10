@@ -1,0 +1,1 @@
+<nav class="dc-tabs dc-categories" aria-label="Jenis dokumen">@foreach(['pedoman'=>'Pedoman','procedure'=>'Prosedur','ik'=>'IK','form'=>'Form / Standar'] as $category=>$categoryLabel)<a class="{{ ($kind??'procedure')===$category?'active':'' }}" href="{{ route('document-control.index',['kind'=>$category]) }}">{{ $categoryLabel }}</a>@endforeach</nav>

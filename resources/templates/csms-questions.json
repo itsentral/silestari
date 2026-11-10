@@ -1,0 +1,296 @@
+[
+  {
+    "id": "1.a",
+    "group": "Proses 1. Konteks Organisasi",
+    "text": "Apakah perusahaan melakukan identifikasi isu internal dan isu eksternal yang berpengaruh terhadap kinerja HSE?",
+    "max": 10
+  },
+  {
+    "id": "1.b",
+    "group": "Proses 1. Konteks Organisasi",
+    "text": "Apakah perusahaan melakukan identifikasi kebutuhan dan harapan pihak berkepentingan yang berpengaruh terhadap kinerja HSE?",
+    "max": 10
+  },
+  {
+    "id": "1.c",
+    "group": "Proses 1. Konteks Organisasi",
+    "text": "Apakah perusahaan menetapkan dan menerapkan sistem manajemen HSE yang terintegrasi dengan bisnis proses perusahaan?",
+    "max": 15
+  },
+  {
+    "id": "2.a",
+    "group": "Proses 2. Kepemimpinan",
+    "text": "Apakah manajemen puncak terlibat aktif dalam pengelolaan aspek HSE, termasuk rencana kerja, budaya HSE dan inspeksi manajemen?",
+    "max": 10
+  },
+  {
+    "id": "2.b",
+    "group": "Proses 2. Kepemimpinan",
+    "text": "Apakah perusahaan mempunyai kebijakan HSE tertulis dan dikomunikasikan kepada seluruh pekerja?",
+    "max": 10
+  },
+  {
+    "id": "2.c",
+    "group": "Proses 2. Kepemimpinan",
+    "text": "Apakah perusahaan memiliki struktur HSE yang memadai dan diisi personel kompeten?",
+    "max": 10
+  },
+  {
+    "id": "2.d",
+    "group": "Proses 2. Kepemimpinan",
+    "text": "Apakah tugas dan tanggung jawab HSE tercantum dalam uraian tugas seluruh level pekerja?",
+    "max": 5
+  },
+  {
+    "id": "2.e",
+    "group": "Proses 2. Kepemimpinan",
+    "text": "Apakah Komite HSE (P2K3) telah dibentuk di perusahaan?",
+    "max": 10
+  },
+  {
+    "id": "3.a",
+    "group": "Proses 3. Perencanaan",
+    "text": "Apakah perusahaan memiliki sistem pengelolaan risiko HSE terkait aktivitas operasional?",
+    "max": 10
+  },
+  {
+    "id": "3.b",
+    "group": "Proses 3. Perencanaan",
+    "text": "Apakah daftar risiko HSE didokumentasikan dan dikomunikasikan kepada pekerja terkait?",
+    "max": 5
+  },
+  {
+    "id": "3.c",
+    "group": "Proses 3. Perencanaan",
+    "text": "Apakah mitigasi/tindakan dalam daftar risiko telah dilaksanakan dan dipastikan pemenuhannya?",
+    "max": 5
+  },
+  {
+    "id": "3.d",
+    "group": "Proses 3. Perencanaan",
+    "text": "Apakah perusahaan mengidentifikasi dan mengevaluasi kewajiban kepatuhan terkait HSE?",
+    "max": 10
+  },
+  {
+    "id": "3.e",
+    "group": "Proses 3. Perencanaan",
+    "text": "Apakah perusahaan memiliki dokumen/persetujuan lingkungan sesuai lingkup kegiatan (AMDAL/DELH, UKL-UPL/DPLH, SPPLH)?",
+    "max": 15
+  },
+  {
+    "id": "3.f",
+    "group": "Proses 3. Perencanaan",
+    "text": "Apakah perusahaan memiliki sasaran kinerja HSE?",
+    "max": 10
+  },
+  {
+    "id": "3.g",
+    "group": "Proses 3. Perencanaan",
+    "text": "Apakah perusahaan memiliki rencana kerja HSE yang mengacu pada target kinerja HSE?",
+    "max": 10
+  },
+  {
+    "id": "4.a",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan memiliki sistem pelatihan HSE untuk seluruh level organisasi?",
+    "max": 15
+  },
+  {
+    "id": "4.b",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan menyusun program training HSE dan memastikan efektivitas pelaksanaannya?",
+    "max": 15
+  },
+  {
+    "id": "4.c",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan mempunyai program pelatihan HSE bagi pekerja baru?",
+    "max": 10
+  },
+  {
+    "id": "4.d",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan memiliki program rapat aspek HSE dari tingkat manajemen hingga pekerja/fungsi?",
+    "max": 10
+  },
+  {
+    "id": "4.e",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan memiliki dan melaksanakan program asuransi ketenagakerjaan?",
+    "max": 10
+  },
+  {
+    "id": "4.f",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan memiliki dan melaksanakan sistem Fit To Work, terutama untuk pekerjaan berisiko tinggi?",
+    "max": 15
+  },
+  {
+    "id": "4.g",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan memiliki personel terlatih untuk Pertolongan Pertama Pada Kecelakaan (P3K)?",
+    "max": 15
+  },
+  {
+    "id": "4.h",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan memiliki sistem untuk mengkomunikasikan aspek HSE?",
+    "max": 10
+  },
+  {
+    "id": "4.i",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan mengkomunikasikan standar industri dan peraturan HSE terbaru yang berlaku?",
+    "max": 10
+  },
+  {
+    "id": "4.j",
+    "group": "Proses 4. Pendukung",
+    "text": "Apakah perusahaan memiliki sistem pengendalian dokumen dan rekaman HSE?",
+    "max": 10
+  },
+  {
+    "id": "5.a",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah perusahaan memiliki prosedur kerja aspek HSE berdasarkan standar, peraturan dan praktik terbaik?",
+    "max": 10
+  },
+  {
+    "id": "5.b",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah perusahaan menyediakan APD yang layak dan memastikan penggunaannya sesuai fungsi?",
+    "max": 5
+  },
+  {
+    "id": "5.c",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah perusahaan mengelola limbah rumah tangga, limbah B3 dan air limbah sesuai ketentuan?",
+    "max": 10
+  },
+  {
+    "id": "5.d",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah perusahaan memiliki sistem Management of Change untuk perubahan personel, peralatan, proses dan dokumentasi?",
+    "max": 10
+  },
+  {
+    "id": "5.e",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah perusahaan memiliki sistem pengelolaan subkontraktor yang mensyaratkan pemenuhan HSE selama kontrak?",
+    "max": 10
+  },
+  {
+    "id": "5.f",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah perusahaan memiliki sistem pemeliharaan peralatan untuk memastikan kesiapan dan kelayakan fungsi?",
+    "max": 15
+  },
+  {
+    "id": "5.g",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah perusahaan memiliki dan menerapkan sistem izin kerja untuk mengendalikan bahaya?",
+    "max": 10
+  },
+  {
+    "id": "5.h",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah perusahaan menggunakan peralatan hemat energi?",
+    "max": 15
+  },
+  {
+    "id": "5.i",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah peralatan pencegahan/penanggulangan kebakaran, ledakan dan pencemaran terpelihara serta berfungsi?",
+    "max": 15
+  },
+  {
+    "id": "5.j",
+    "group": "Proses 5. Pengendalian Operasional",
+    "text": "Apakah perusahaan memiliki sistem pengelolaan keadaan darurat dan rencana darurat sesuai kegiatan operasional?",
+    "max": 15
+  },
+  {
+    "id": "6.a",
+    "group": "Proses 6. Evaluasi Kinerja",
+    "text": "Apakah perusahaan melakukan pengukuran dan pemantauan lingkungan kerja?",
+    "max": 15
+  },
+  {
+    "id": "6.b",
+    "group": "Proses 6. Evaluasi Kinerja",
+    "text": "Apakah perusahaan melakukan pengelolaan dan pemantauan sesuai dokumen lingkungan?",
+    "max": 15
+  },
+  {
+    "id": "6.c",
+    "group": "Proses 6. Evaluasi Kinerja",
+    "text": "Apakah perusahaan memiliki sistem audit HSE yang dilaksanakan personel kompeten?",
+    "max": 20
+  },
+  {
+    "id": "6.d",
+    "group": "Proses 6. Evaluasi Kinerja",
+    "text": "Apakah perusahaan melakukan inspeksi terhadap peralatan yang digunakan?",
+    "max": 15
+  },
+  {
+    "id": "6.e",
+    "group": "Proses 6. Evaluasi Kinerja",
+    "text": "Apakah perusahaan memiliki program observasi dan intervensi aspek HSE (pengamatan keselamatan kerja)?",
+    "max": 10
+  },
+  {
+    "id": "6.f",
+    "group": "Proses 6. Evaluasi Kinerja",
+    "text": "Apakah perusahaan memiliki sistem pemantauan kinerja HSE secara periodik?",
+    "max": 15
+  },
+  {
+    "id": "6.g",
+    "group": "Proses 6. Evaluasi Kinerja",
+    "text": "Apakah perusahaan memiliki sistem tinjauan manajemen?",
+    "max": 15
+  },
+  {
+    "id": "6.h",
+    "group": "Proses 6. Evaluasi Kinerja",
+    "text": "Apakah tinjauan manajemen dilaksanakan periodik dan hasilnya ditindaklanjuti?",
+    "max": 5
+  },
+  {
+    "id": "7.a",
+    "group": "Proses 7. Perbaikan",
+    "text": "Apakah perusahaan memiliki sistem pelaporan dan investigasi kecelakaan termasuk insiden berpotensi Major Accident?",
+    "max": 10
+  },
+  {
+    "id": "7.b",
+    "group": "Proses 7. Perbaikan",
+    "text": "Apakah temuan audit, inspeksi dan rekomendasi investigasi kecelakaan telah ditindaklanjuti?",
+    "max": 20
+  },
+  {
+    "id": "7.c",
+    "group": "Proses 7. Perbaikan",
+    "text": "Apakah kasus insiden dikomunikasikan sebagai pembelajaran agar tidak terulang?",
+    "max": 10
+  },
+  {
+    "id": "8.a",
+    "group": "Proses 8. ESG, Penghargaan dan Sanksi",
+    "text": "Apakah perusahaan menerima penghargaan HSE dari badan/instansi terkait implementasi HSE?",
+    "max": 10
+  },
+  {
+    "id": "8.b",
+    "group": "Proses 8. ESG, Penghargaan dan Sanksi",
+    "text": "Apakah perusahaan menerima sanksi/teguran/kewajiban perbaikan dari Pemerintah akibat pelanggaran HSE dalam tiga tahun terakhir?",
+    "max": 10
+  },
+  {
+    "id": "8.c",
+    "group": "Proses 8. ESG, Penghargaan dan Sanksi",
+    "text": "Apakah perusahaan menerapkan ESG dalam praktik bisnisnya?",
+    "max": 15
+  }
+]

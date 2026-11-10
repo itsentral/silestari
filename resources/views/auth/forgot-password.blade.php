@@ -1,0 +1,3 @@
+@extends('layouts.app')
+@section('title','Lupa password · SILESTARI')
+@section('content')<section class="auth-card"><p class="eyebrow">PEMULIHAN AKUN</p><h1>Lupa password</h1><p>Masukkan email yang tercatat pada akun Anda. Kami akan mengirim tautan untuk membuat password baru.</p><form method="post" action="{{ route('password.email') }}">@csrf<label>Email terdaftar<input name="email" type="email" value="{{ old('email') }}" maxlength="255" autocomplete="email" required></label><button class="primary full">Kirim tautan reset</button></form><p><a href="{{ route('login') }}">← Kembali ke login</a></p><small>Jika akun Anda belum memiliki email, hubungi admin untuk melengkapinya melalui Akun & Hak Akses.</small></section>@endsection

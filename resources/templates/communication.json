@@ -1,0 +1,474 @@
+{
+  "sources": [
+    {
+      "key": "1",
+      "name": "Kebijakan Perusahaan"
+    },
+    {
+      "key": "2",
+      "name": "Identifikasi Aspek Dampak Lingkungan, Bahaya Risiko K3, dan Penilaian Risiko Penyuapan"
+    },
+    {
+      "key": "3",
+      "name": "Konteks Organisasi"
+    },
+    {
+      "key": "4",
+      "name": "Visi, Misi & Budaya Perusahaan"
+    },
+    {
+      "key": "5",
+      "name": "Sasaran Strategis (RJPP, RKAP) & Strategi"
+    },
+    {
+      "key": "6",
+      "name": "Pelayanan Pelanggan"
+    },
+    {
+      "key": "7",
+      "name": "Peraturan Perundangan dan Persyaratan lainnya"
+    },
+    {
+      "key": "8",
+      "name": "Sasaran dan Target Perusahaan\n'KPI Korporat & KPI Unit Usaha"
+    },
+    {
+      "key": "9",
+      "name": "Dokumen dan Rekaman sistem manajemen mutu, K3, lingkungan, dan Anti Penyuapan"
+    },
+    {
+      "key": "10",
+      "name": "Pengendalian Operasional"
+    },
+    {
+      "key": "11",
+      "name": "Sistem kesiapsiagaan dan tanggap darurat"
+    },
+    {
+      "key": "12",
+      "name": "Keluhan terkait kinerja lingkungan"
+    },
+    {
+      "key": "13",
+      "name": "Pelaporan Limbah B3"
+    },
+    {
+      "key": "14",
+      "name": "Pelaporan DPPL / AMDAL"
+    },
+    {
+      "key": "15",
+      "name": "Pelaporan P2K3"
+    },
+    {
+      "key": "16",
+      "name": "Pelaporan MCU"
+    },
+    {
+      "key": "17",
+      "name": "Pelaporan Kecelakaan kerja"
+    },
+    {
+      "key": "18",
+      "name": "Hasil Investigasi insiden"
+    }
+  ],
+  "materials": [
+    {
+      "source_key": "1",
+      "title": "Komunikasi Pernyataan Poin Kebijakan Mutu & Lingkungan",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "1",
+      "title": "Komunikasi Pernyataan Poin Kebijakan Mutu & Lingkungan",
+      "criteria": "Internal / Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "1",
+      "title": "Komunikasi Pernyataan Poin Kebijakan Mutu & Lingkungan",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "1",
+      "title": "Komunikasi Pernyataan Poin Kebijakan Mutu & Lingkungan",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "1",
+      "title": "Konsultasi Penyusunan Kebijakan Perusahaan",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "2",
+      "title": "Konsultasi dan Partisipasi Identifikasi Aspek Dampak Lingkungan, Bahaya Risiko K3, dan Penilaian Risiko Penyuapan di area kerja",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "2",
+      "title": "Komunikasi Aspek Dampak Lingkungan, Bahaya Risiko K3 dan Penilaian Risiko Penyuapan di area kerja",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "2",
+      "title": "Komunikasi Aspek Dampak Lingkungan, Bahaya Risiko K3 dan Penilaian Risiko Penyuapan di area kerja",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "3",
+      "title": "Konsultasi dan Partisipasi identifikasi konteks organisasi",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "3",
+      "title": "- Isu Internal dan isu eksternal\n- Kebutuhan dan harapan pihak berkepentingan",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "4",
+      "title": "Visi, Misi & Budaya Perusahaan",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "5",
+      "title": "Sasaran Strategis (RJPP, RKAP) & Strategi",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "6",
+      "title": "Pelayanan Pelanggan",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "7",
+      "title": "- Identifikasi dan evaluasi peraturan perundangan dan persyaratan lain lingkungan\n- Peraturan baru",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "7",
+      "title": "- Identifikasi dan evaluasi peraturan perundangan dan persyaratan lain lingkungan\n- Peraturan baru",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "8",
+      "title": "Sasaran dan target Perusahaan",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "8",
+      "title": "Pencapaian Sasaran dan Target",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "9",
+      "title": "Prosedur dan Rekaman",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "10",
+      "title": "Pengendalian limbah",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "10",
+      "title": "Pengendalian material B3",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "11",
+      "title": "Prosedur Kesiapsiagaan dan Tanggap Darurat",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "11",
+      "title": "Jalur Evakuasi",
+      "criteria": "Internal / Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "11",
+      "title": "Jalur Evakuasi",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "11",
+      "title": "Skenario tanggap darurat",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "11",
+      "title": "Penggunaan peralatan tanggap darurat",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "12",
+      "title": "Keluhan",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "12",
+      "title": "Keluhan",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "13",
+      "title": "Laporan Limbah B3",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "14",
+      "title": "Laporan RKL-RPL / DPPL",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "15",
+      "title": "Laporan Kegiatan tim P2K3",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "16",
+      "title": "Laporan Hasil pemeriksaan kesehatan",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "17",
+      "title": "Laporan Kecelakaan",
+      "criteria": "Eksternal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    },
+    {
+      "source_key": "18",
+      "title": "Temuan investigasi insiden",
+      "criteria": "Internal",
+      "method": "",
+      "language": "",
+      "timing": "",
+      "audience": "",
+      "responsible": "",
+      "effectiveness": "",
+      "control_document": ""
+    }
+  ]
+}

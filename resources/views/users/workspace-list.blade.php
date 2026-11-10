@@ -1,0 +1,7 @@
+<div class="titlebar"><div><span class="eyebrow">ADMINISTRASI AKSES</span><h1>Akun & Hak Akses</h1><p>Buat akun pengguna, tentukan modul, atau nonaktifkan akses.</p></div><div><button onclick="ISOAuth.backupAccounts()">Cadangan akun & hak akses</button><button class="primary" onclick="location.assign('{{ route('users.create') }}')">＋ Buat akun baru</button></div></div>
+<div class="tablewrap"><table><thead><tr><th>Nama / username</th><th>Peran</th><th>Akses modul</th><th>Status</th><th>Aksi</th></tr></thead><tbody>
+@foreach($accounts as $account)
+<tr><td><strong>{{ $account->name }}</strong><small>{{ $account->username ?? $account->email }}</small></td><td>{{ $account->role==='admin'?'Admin':'Pengguna' }}</td><td>{{ $account->role==='admin'?'Semua modul':(collect($account->allowed_modules ?? [])->map(fn($key)=>$modules[$key] ?? $key)->join(', ') ?: 'Belum diberi akses') }}@if($account->role!=='admin')<small>Departemen seluruh modul: {{ $account->department ?: 'Belum ditentukan' }}</small>@endif</td><td><span class="badge">{{ $account->is_active?'Aktif':'Nonaktif' }}</span></td><td><button onclick="location.assign('{{ route('users.edit',$account) }}')">Kelola akun</button></td></tr>
+@endforeach
+</tbody></table></div>
+<div class="notice">Setiap pengguna dapat mengoperasikan modul yang diizinkan sesuai departemennya. Pengaturan akun dan cadangan seluruh data hanya tersedia bagi admin. Hak akses diperiksa oleh server Laravel.</div>

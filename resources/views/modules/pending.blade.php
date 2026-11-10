@@ -1,0 +1,2 @@
+@extends('layouts.app')
+@section('content')<h1>{{ $moduleName }}</h1><section class="card"><h2>Modul belum dipindahkan</h2><p>Modul ini belum tersedia pada versi Laravel. Gunakan aplikasi SILESTARI lama untuk pekerjaan operasional sampai pemindahan modul selesai.</p><a class="button" href="{{ route('dashboard') }}">Kembali ke Dashboard</a></section>@endsection
